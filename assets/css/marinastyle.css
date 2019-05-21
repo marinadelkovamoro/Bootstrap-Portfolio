@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+.col-md-4 {
+    float: left;
+}
+
+.col-md-6 {
+    margin-bottom: 30px;
+}
+
+.footer {
+    clear: both;
+    padding: 20px;
+    background-color: lightgrey;
+    margin-top: 20px;
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    position: relative;
+    margin-left: 30px;
+      
+}

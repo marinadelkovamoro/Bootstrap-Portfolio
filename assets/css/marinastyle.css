@@ -19,8 +19,13 @@
 }
 
 p {
-    font-size: 18px;
+    font-size: 16.5px;
     position: relative;
     margin-left: 30px;
-      
+    font-family: 'Philosopher', sans-serif;      
 }
+
+h1 {
+    font-family: 'Philosopher', sans-serif;
+}
+
